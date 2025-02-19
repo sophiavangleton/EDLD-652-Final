@@ -1,0 +1,25 @@
+---
+title: "Practice Distill Article"
+description: |
+  A new article created using the Distill format. This will be what I use for my final project. 
+author:
+  - name: Sophia Angleton 
+    url: https://example.com/norajones
+    affiliation: University of Oregon
+    affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
